@@ -42,6 +42,6 @@ void loop()
   		    		digitalWrite(pins[j], show[(i/10)][j]);
    		  		 }
    		 	}
-      	}
+      		}
   	}
 }
